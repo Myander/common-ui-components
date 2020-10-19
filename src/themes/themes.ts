@@ -10,11 +10,11 @@ export const darkTheme: DefaultTheme = {
     main: 'hsla(0,0%,100%,.87)',
     secondary: '#cccccc',
     backgroundMain: '#1f1f1f',
-    backgroundSecondary: '#282828',
+    backgroundSecondary: '#2a2a2b',
     highlight: '#404040',
     btn_background: 'rgba(255, 255, 255, 0.2)',
     disabled: 'rgba(255, 255, 255, 0.4)',
-    menuShadow: '0px 1px 5px rgba(0, 0, 0, 0.2)',
+    menuShadow: '-2px 2px 5px 3px rgba(0, 0, 0, 0.35)',
   },
 };
 
