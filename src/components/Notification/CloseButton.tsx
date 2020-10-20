@@ -1,5 +1,4 @@
 import React, { FC } from 'react';
-import { motion } from 'framer-motion';
 import { StyledButton, StyledPath } from './Notification.styles';
 
 interface PathProps {
